@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTutorial.CA", "EFCoreTutorial.CA\EFCoreTutorial.CA.csproj", "{2BE9972B-9267-459B-AB72-EDEC61DFC2F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{CE130A0A-8A90-4357-8736-1D46E75A5A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{414ED59A-E711-4013-941C-78A867DA779E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE9972B-9267-459B-AB72-EDEC61DFC2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE9972B-9267-459B-AB72-EDEC61DFC2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE9972B-9267-459B-AB72-EDEC61DFC2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE9972B-9267-459B-AB72-EDEC61DFC2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE130A0A-8A90-4357-8736-1D46E75A5A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE130A0A-8A90-4357-8736-1D46E75A5A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE130A0A-8A90-4357-8736-1D46E75A5A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE130A0A-8A90-4357-8736-1D46E75A5A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414ED59A-E711-4013-941C-78A867DA779E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414ED59A-E711-4013-941C-78A867DA779E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414ED59A-E711-4013-941C-78A867DA779E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414ED59A-E711-4013-941C-78A867DA779E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
