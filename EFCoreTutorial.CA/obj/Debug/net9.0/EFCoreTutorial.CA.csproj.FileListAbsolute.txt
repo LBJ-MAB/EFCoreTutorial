@@ -68,3 +68,4 @@ C:\Users\Laurie.bassett-jones\Projects\EFCoreTutorial\EFCoreTutorial.CA\bin\Debu
 C:\Users\Laurie.bassett-jones\Projects\EFCoreTutorial\EFCoreTutorial.CA\bin\Debug\net9.0\Models.pdb
 C:\Users\Laurie.bassett-jones\Projects\EFCoreTutorial\EFCoreTutorial.CA\obj\Debug\net9.0\EFCoreTutorial.CA.csproj.AssemblyReference.cache
 C:\Users\Laurie.bassett-jones\Projects\EFCoreTutorial\EFCoreTutorial.CA\obj\Debug\net9.0\EFCoreTu.09E91584.Up2Date
+C:\Users\Laurie.bassett-jones\Projects\EFCoreTutorial\EFCoreTutorial.CA\obj\Debug\net9.0\EFCoreTutorial.CA.sourcelink.json
